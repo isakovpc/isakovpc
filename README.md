@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f8a70,100:164e7a&height=180&section=header&text=Salom,%20men%20Isakov!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ISAKOV&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&color=0:050505,40:111111,70:262626,100:0F172A"/>
 
+</div>
 ### 💻 Developer | 🚀 Future-focused | 📚 Always Learning
 
 
