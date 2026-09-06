@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ISAKOV&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&color=0:050505,40:111111,70:262626,100:0F172A"/>
 
 </div>
-### 💻 Developer | 🚀 Future-focused | 📚 Always Learning
+💻 Developer | 🚀 Future-focused | 📚 Always Learning
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
@@ -13,7 +13,7 @@
 
 # Salom, men Muhammadzohir Isakov! 👋
 
-### 💻 Developer | 🚀 Future-focused | 📚 Always Learning
+💻 Developer | 🚀 Future-focused | 📚 Always Learning
 
 > Code. Create. Repeat.
 
